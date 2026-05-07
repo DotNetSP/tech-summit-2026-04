@@ -15,31 +15,31 @@ Número de participantes: **100 pessoas**
 
 Apresentações/talks que aconteceram durante o evento:
 
-_# Criando Workflow com Multi-Agentes com Microsoft Agent Framework_
+_# MCP + Playwright: como construir testes mais inteligentes_
 
 Palestrante: **Fábio Araújo (QA Lead, Dev Referências)**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, AI Agents, Microsoft Agent Framework, .NET, C#, Microsoft Foundry, MCP, Microsoft Azure...**
 
-_# Criando Workflow com Multi-Agentes com Microsoft Agent Framework_
+_# Mais IA, menos liderança: o risco que ninguém está discutindo_
 
 Palestrante: **Cilene Danta (Café em Código), Michael Silva (Café em Código)**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, AI Agents, Microsoft Agent Framework, .NET, C#, Microsoft Foundry, MCP, Microsoft Azure...**
 
-_# Produtividade no Desenvolvimento com IAs: descomplicando tarefas do dia a dia com MCP Servers_
+_# GitHub Agentic Workflows: automatize tudo o que você precisar_
 
 Palestrante: **Vinicius Moura (Microsoft MVP)**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, AI Agents, Containers, Microsoft Azure, Azure App Service, Visual Studio Code, GitHub Copilot, .NET, Docker, NuGet, npm, Grafana k6, Docker MCP Catalog, Azure API Management, Microsoft Agent Framework, APIsec MCP Audit, GitHub Actions, Azure DevOps, PostgreSQL...**
 
-_# Produtividade no Desenvolvimento com IAs: descomplicando tarefas do dia a dia com MCP Servers_
+_# Carreira para Devs serem insubstituíveis na era da IA_
 
 Palestrante: **Larissa Azevedo (Microsoft MVP)**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, AI Agents, Containers, Microsoft Azure, Azure App Service, Visual Studio Code, GitHub Copilot, .NET, Docker, NuGet, npm, Grafana k6, Docker MCP Catalog, Azure API Management, Microsoft Agent Framework, APIsec MCP Audit, GitHub Actions, Azure DevOps, PostgreSQL...**
 
-_# Da Documentação ao Copilot: Transformando Conhecimento Interno em Respostas Inteligentes_
+_# Como o GitHub Copilot + MCPs podem ser úteis no setup inicial e documentação de novas aplicações?_
 
 Palestrantes: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC), Milton Camara Gomes (Microsoft MVP, MTAC)**
 
