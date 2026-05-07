@@ -64,3 +64,11 @@ Local: **FIAP - Avenida Paulista, 1106 - 4o andar - Bela Vista - São Paulo/SP**
 ![Renato e Milton palestrando](img/renato-milton-13.jpeg)
 
 ![Fabio palestrando](img/fabio-03.jpg)
+
+![Cilene e Michael palestrando](img/cilene-michael-03.jpeg)
+
+![Larissa palestrando](img/larissa-04.jpeg)
+
+![Encerramento 1](img/encerramento-09.jpeg)
+
+![Larissa palestrando](img/encerramento-10.jpeg)
