@@ -1,5 +1,5 @@
 # tech-summit-2026-04
- Fotos e informações gerais sobre o evento "Tech Summit", realizado na cidade de São Paulo-SP.
+Fotos e informações gerais sobre o evento "Tech Summit", realizado na cidade de São Paulo-SP.
 
 Data: **25/04/2026 (sábado)**
 
@@ -31,7 +31,7 @@ _# GitHub Agentic Workflows: automatize tudo o que você precisar_
 
 Palestrante: **Vinicius Moura (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, AI Agents, Containers, Microsoft Azure, Azure App Service, Visual Studio Code, GitHub Copilot, .NET, Docker, NuGet, npm, Grafana k6, Docker MCP Catalog, Azure API Management, Microsoft Agent Framework, APIsec MCP Audit, GitHub Actions, Azure DevOps, PostgreSQL...**
+Tecnologias e tópicos abordados: **GitHub, GitHub Actions, GitHub Copilot, Inteligência Artificial, DevOps, LLMs, AI Agents, MCP, .NET, C#, ASP.NET Core, Minimal APIs, Docker, Containers, Microsoft Azure, Azure Container Apps...**
 
 _# Carreira para Devs serem insubstituíveis na era da IA_
 
@@ -43,7 +43,7 @@ _# Como o GitHub Copilot + MCPs podem ser úteis no setup inicial e documentaç�
 
 Palestrantes: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC), Milton Camara Gomes (Microsoft MVP, MTAC)**
 
-Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, AI Agents, .NET, C#, Microsoft Azure, Microsoft Copilot 365...**
+Tecnologias e tópicos abordados: GitHub, GitHub Actions, GitHub Copilot, Inteligência Artificial, DevOps, LLMs, AI Agents, MCP, .NET, C#, ASP.NET Core, Minimal APIs, Docker, Containers, Docker Compose, Grafana, Grafana Tempo, OpenTelemetry...
 
 ---
 
