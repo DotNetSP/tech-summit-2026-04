@@ -19,13 +19,13 @@ _# MCP + Playwright: como construir testes mais inteligentes_
 
 Palestrante: **Fábio Araújo (QA Lead, Dev Referências)**
 
-Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, AI Agents, Microsoft Agent Framework, .NET, C#, Microsoft Foundry, MCP, Microsoft Azure...**
+Tecnologias e tópicos abordados: **Playwright, LLMs, Inteligência Artificial, MCP, Testes de Software, Qualidade de Software, Produtividade...**
 
 _# Mais IA, menos liderança: o risco que ninguém está discutindo_
 
 Palestrante: **Cilene Danta (Café em Código), Michael Silva (Café em Código)**
 
-Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, AI Agents, Microsoft Agent Framework, .NET, C#, Microsoft Foundry, MCP, Microsoft Azure...**
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, Produtividade, Liderança, Desenvolvimento de Software, Carreira em TI...**
 
 _# GitHub Agentic Workflows: automatize tudo o que você precisar_
 
@@ -37,7 +37,7 @@ _# Carreira para Devs serem insubstituíveis na era da IA_
 
 Palestrante: **Larissa Azevedo (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, AI Agents, Containers, Microsoft Azure, Azure App Service, Visual Studio Code, GitHub Copilot, .NET, Docker, NuGet, npm, Grafana k6, Docker MCP Catalog, Azure API Management, Microsoft Agent Framework, APIsec MCP Audit, GitHub Actions, Azure DevOps, PostgreSQL...**
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, Desenvolvimento de Software, Carreira em TI, Desenvolvimento Web...**
 
 _# Como o GitHub Copilot + MCPs podem ser úteis no setup inicial e documentação de novas aplicações?_
 
