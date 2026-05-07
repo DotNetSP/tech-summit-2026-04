@@ -43,7 +43,7 @@ _# Como o GitHub Copilot + MCPs podem ser úteis no setup inicial e documentaç�
 
 Palestrantes: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC), Milton Camara Gomes (Microsoft MVP, MTAC)**
 
-Tecnologias e tópicos abordados: GitHub, GitHub Actions, GitHub Copilot, Inteligência Artificial, DevOps, LLMs, AI Agents, MCP, .NET, C#, ASP.NET Core, Minimal APIs, Docker, Containers, Docker Compose, Grafana, Grafana Tempo, OpenTelemetry...
+Tecnologias e tópicos abordados: **GitHub, GitHub Actions, GitHub Copilot, Inteligência Artificial, DevOps, LLMs, AI Agents, MCP, .NET, C#, ASP.NET Core, Minimal APIs, Docker, Containers, Docker Compose, Grafana, Grafana Tempo, OpenTelemetry...**
 
 ---
 
